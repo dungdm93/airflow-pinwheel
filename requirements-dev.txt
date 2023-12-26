@@ -1,0 +1,12 @@
+yapf~=0.30
+isort~=5.10
+mypy==1.5.1
+pytest~=6.2
+pytest-asyncio~=0.16
+assertpy~=1.1
+
+### mypy stubs
+types-requests
+types-PyYAML
+types-python-dateutil
+types-croniter
